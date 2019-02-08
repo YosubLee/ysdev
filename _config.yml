@@ -21,7 +21,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: YosubLee
 future: true
 
-disqus_shortname: yosublee.github.io
+disqus_shortname: https-yosublee-github-io
 disqus_url: "https://yosublee.github.io/ysdev/"
 markdown: kramdown
 theme: minima
