@@ -21,11 +21,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: YosubLee
 future: true
 
+disqus_shortname: yosublee.github.io
+disqus_url: "https://yosublee.github.io"
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  -
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
