@@ -22,10 +22,12 @@ github_username: YosubLee
 future: true
 
 # Build settings
+disqus_url: "https://yosublee.github.io"
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  -
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
