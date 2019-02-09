@@ -10,4 +10,8 @@ gem install jekyll bundler
 ````
 bundle exec jekyll serve
 ````
+## Comment
+```` 
+disqus Service: [disqus](https://disqus.com/)
+````
 

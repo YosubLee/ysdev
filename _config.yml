@@ -22,7 +22,7 @@ github_username: YosubLee
 future: true
 
 disqus_shortname: https-yosublee-github-io
-disqus_url: "https://yosublee.github.io"
+disqus_url: "https://yosublee.github.io/ysdev/"
 markdown: kramdown
 theme: minima
 plugins:
