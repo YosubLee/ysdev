@@ -1,7 +1,7 @@
 ---
 layout: frontpage
+title: Home
 ---
 
-## 안녕하세요. 소프트웨어 개발 기술 블로그입니다.
-
-방문해주셔서 감사합니다!
+##Software Develop Blog 
+안녕하세요. Software 정리 블로그 입니다.
