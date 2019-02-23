@@ -16,7 +16,7 @@
 title: No pain, No gain
 email: yosub0901@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/ysdev"
+baseurl: "ysdev"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: YosubLee
 future: true
@@ -24,7 +24,7 @@ future: true
 disqus_shortname: https-yosublee-github-io
 disqus_url: "https://yosublee.github.io/ysdev/"
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
