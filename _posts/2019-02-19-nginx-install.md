@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "nginx Install"
-categories: ["nginx"]
+title : nginx 설치
+categories : [nginx]
+tags : [nginx]
 ---
 ## NGINX 설치  
 ### 작업
