@@ -1,6 +1,6 @@
 ---
 title : nginx 설치
-categories : [nginx]
+categories : [web]
 tags : [nginx]
 ---
 ## NGINX 설치  
@@ -29,5 +29,5 @@ gpgkey=https://nginx.org/keys/nginx_signing.key
 ````
 
 
-## 참조
-[nginx 공식 홈페이지]: http://nginx.org/en/linux_packages.html
+### 참조
+nginx 공식 홈페이지 : <http://nginx.org/en/linux_packages.html>

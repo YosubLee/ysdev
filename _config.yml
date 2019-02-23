@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast"
+minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "이요섭(Lee Yosub)"
   avatar           : "/assets/images/yslee03.jpg"
-  bio              : "안녕하세요!"
+  bio              : "안녕하세요! (공사중)"
   location         : "대한민국 어딘가"
   email            : "yosub0901@gmail.com"
   links:
