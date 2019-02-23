@@ -27,7 +27,5 @@ gpgcheck=1
 enabled=0
 gpgkey=https://nginx.org/keys/nginx_signing.key
 ````
-
-
 ### 참조
 nginx 공식 홈페이지 : <http://nginx.org/en/linux_packages.html>
