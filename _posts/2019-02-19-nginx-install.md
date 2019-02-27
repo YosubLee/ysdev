@@ -33,7 +33,7 @@ gpgkey=https://nginx.org/keys/nginx_signing.key
 ````
 ### 3. nginx package (선택)
 * yum install시 기본적으로 `nginx-stable package`가 적용됩니다.
-* `nginx-mainline package` 적용을 원할 경우 아래의 커맨트 실행하면 됩니다.  
+* `nginx-mainline package` 적용을 원할 경우 아래의 command를 실행하면 됩니다.  
 * [serverfault](https://serverfault.com/questions/715049/what-s-the-difference-between-the-mainline-and-stable-branches-of-nginx/715126#715126) 에 따르면 `nginx-mainline package` 사용을 권고합니다. 
 
 ````bash
@@ -45,13 +45,13 @@ sudo yum-config-manager --enable nginx-mainline
 sudo yum install nginx
 ```` 
 ### 5. systemctl 등록 (선택)
-* 시스템 부팅시 nginx daemon을 자동실행시키고 싶다면 아레 커멘드를 실행하면 됩니다.
+* 시스템 부팅시 nginx daemon을 자동실행시키고 싶다면 아레 command를 실행하면 됩니다.
 
 ````bash
 sudo systemctl enable nginx.service
 ````
 ### 6. nginx  daemon 실행
-* 1, 2번 명령어 중 택일 실행하면 됩니다.
+* 1, 2번 command 중 택일 실행하면 됩니다.
 
 ````bash
 1. sudo systemctl start nginx.service
