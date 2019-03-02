@@ -1,4 +1,4 @@
-# 소프트웨어 개발 블로그
+# Blog
 ## local 실행
 1. Ruby 설치 
 [Ruby Download Site](https://www.ruby-lang.org/en/downloads/)
@@ -10,6 +10,8 @@ gem install jekyll bundler
 ````
 bundle exec jekyll serve
 ````
+## 
+
 ## Comment
 ```` 
 disqus Service: [disqus](https://disqus.com/)
