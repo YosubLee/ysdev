@@ -14,6 +14,5 @@ bundle exec jekyll serve
 ```` 
 disqus Service: [disqus](https://disqus.com/)
 ````
-
 ## mmistakes Guide
-[Guid](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+[Guide] : <https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>
