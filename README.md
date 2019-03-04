@@ -1,4 +1,4 @@
-# 소프트웨어 개발 블로그
+# YS Lee 블로그
 ## local 실행
 1. Ruby 설치 
 [Ruby Download Site](https://www.ruby-lang.org/en/downloads/)
