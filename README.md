@@ -16,3 +16,6 @@ disqus Service: [disqus](https://disqus.com/)
 ````
 ## mmistakes Guide
 [Guide] : <https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>
+
+## mmistakes Sample Page
+[minimal-mistake Smaple] : <https://github.com/mmistakes/minimal-mistakes/tree/master/docs/_pages>
