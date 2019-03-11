@@ -21,9 +21,9 @@ title_separator          : "|"
 name                     : "Yosub Lee"
 description              : "소프트웨어(Software) 및 그 이외의 정보를 담은 블로그"
 url                      : "https://yosublee.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/ysdev"
 repository               : #"YosubLee/ysdev"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/teaser.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
