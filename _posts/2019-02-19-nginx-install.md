@@ -1,10 +1,8 @@
 ---
-title : nginx 설치
-categories : [web]
-tags : [nginx]
+title : nginx 설치 (Package Manager 사용)
+categories : [Web]
+tags : [nginx, CentOs7]
 ---
-# NGINX 설치  (Package Manager 사용)
-## # 작업 (Cent OS 및 yum 사용)
 ### 1. yum util 설치
 ````bash
 sudo yum install yum-utils
